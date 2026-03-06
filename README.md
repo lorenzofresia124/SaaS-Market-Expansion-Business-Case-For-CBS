@@ -1,7 +1,5 @@
 # SaaS-Market-Expansion-Business-Case
 
-# SaaS Market Expansion Strategy Model
-
 Excel-based strategic and financial model evaluating the expansion of a SaaS business into the North American market.
 
 This project analyses market opportunity, investment requirements, revenue growth potential, and overall profitability to support a data-driven expansion decision.
