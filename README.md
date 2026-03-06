@@ -127,7 +127,7 @@ Key modelling elements include:
 ---
 
 ## Project Files
-[Download 01 expansion scenario](https://github.com/lorenzofresia124/SaaS-Market-Expansion-Business-Case-For-CBS/raw/main/SaaS%20Market%20Expansion%20Business%20Case/01_Expansion%20Scenario.xlsx)
+[Download 01 Expansion Scenario](https://github.com/lorenzofresia124/SaaS-Market-Expansion-Business-Case-For-CBS/raw/main/SaaS%20Market%20Expansion%20Business%20Case/01_Expansion%20Scenario.xlsx)
 
 [Download 02 Market_Expansion Investment Analysis](https://github.com/lorenzofresia124/SaaS-Market-Expansion-Business-Case-For-CBS/raw/main/SaaS%20Market%20Expansion%20Business%20Case/02_Market%20Expansion%20Investment%20Analysis.xlsx)
 
