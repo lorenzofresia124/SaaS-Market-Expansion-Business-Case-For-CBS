@@ -145,7 +145,7 @@ It highlights how data-driven decision frameworks can support growth strategy in
 
 ---
 
-##Author
+## Author
 
 Lorenzo Fresia
 
