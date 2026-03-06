@@ -146,6 +146,6 @@ It highlights how data-driven decision frameworks can support growth strategy in
 ---
 
 ##Author 
-Lorenzo Frsia
+Lorenzo Fresia
 
 Aspiring Business & Digital Management student interested in SaaS economics, market strategy and data-driven business anaysis.
